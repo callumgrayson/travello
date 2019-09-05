@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travello/static/css/main.929fb8cd.chunk.css",
+    "main.js": "/travello/static/js/main.c910662e.chunk.js",
+    "main.js.map": "/travello/static/js/main.c910662e.chunk.js.map",
+    "runtime~main.js": "/travello/static/js/runtime~main.d973a9af.js",
+    "runtime~main.js.map": "/travello/static/js/runtime~main.d973a9af.js.map",
+    "static/js/2.e5d629f5.chunk.js": "/travello/static/js/2.e5d629f5.chunk.js",
+    "static/js/2.e5d629f5.chunk.js.map": "/travello/static/js/2.e5d629f5.chunk.js.map",
+    "index.html": "/travello/index.html",
+    "precache-manifest.9bdac68feb0c9f1f7c5bbd97f7b88277.js": "/travello/precache-manifest.9bdac68feb0c9f1f7c5bbd97f7b88277.js",
+    "service-worker.js": "/travello/service-worker.js",
+    "static/css/main.929fb8cd.chunk.css.map": "/travello/static/css/main.929fb8cd.chunk.css.map",
+    "static/media/Travello.module.scss": "/travello/static/media/chevron-thin-right.dff8f8c9.svg",
+    "static/media/hotel-1.jpg": "/travello/static/media/hotel-1.e7ae3e52.jpg",
+    "static/media/hotel-2.jpg": "/travello/static/media/hotel-2.0ef736b7.jpg",
+    "static/media/hotel-3.jpg": "/travello/static/media/hotel-3.54ceec13.jpg",
+    "static/media/sprite.svg": "/travello/static/media/sprite.6745dd39.svg"
+  }
+}
